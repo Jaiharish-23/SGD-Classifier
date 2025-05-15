@@ -21,7 +21,7 @@ Developed by: JAI HARISH R
 
 RegisterNumber: 212224040124
 
-```
+```python
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
